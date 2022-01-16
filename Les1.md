@@ -116,11 +116,11 @@ Enkele sterke punten van het Microsoft Cloud Adoption Framework for Azure zijn d
 2. Het framework is in samenwerking met Microsoft-werknemers, -partners en -klanten ontwikkeld. 
 
 Enkele zwakke punten van het Microsoft Cloud Adoption Framework for Azure zijn de volgende:
-1. Het is heel erg op Microsoft Azure gecentreerd, andere cloud providers worden maar in een hoofdstuk benoemd. 
+1. Het is heel erg op Microsoft Azure gecentreerd, andere cloud providers worden zeer sumier benoemd, als ze al benoemd worden. 
 
 ## Conformeren grote cloud providers zich hieraan
 
-Het Microsoft Cloud Adoption Framework for Azure is een framework van Microsoft ontwikkeld voor Azure, dit is een framework waar Azure dus conform aan is. 
+Het Microsoft Cloud Adoption Framework for Azure is een framework van Microsoft ontwikkeld voor Azure, dit is een framework waar Azure dus conform aan is. De andere grote Cloud Profiders hebben hun eigen versie van een Cloud Adoption Framework, welke in grote lijnen allemaal gelijk zijn aan elkaar. 
 
 Als ik het Microsoft Cloud Adoption Framework for Azure vergelijk met het AWS Cloud Adoption Framework dan zijn er geen grote verschillen tussen de twee, behalve dat de eerste voor Azure is en de tweede voor Amazon Web Services. Natuurlijk zijn de bewoordingen niet gelijk, maar in grote lijnen zijn het vrijwel exact dezelfde frameworks. 
 
