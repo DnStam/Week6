@@ -34,7 +34,11 @@ In dit framework worden de best practices voor cloud adoption samengebracht welk
 Enkele best practices binnen het Azure Well-Architected Framework, wat een onderdeel is van het Microsoft Cloud Adoption Framework, zijn; kostenbeheer, Operationele uitmuntendheid, efficiëntie van prestaties, betrouwbaarheid en beveiliging. 
 
 ### Doelgroep
+<<<<<<< HEAD
 Doordat de manier waarop gebruik wordt gemaakt van IT zaken zoals; servers, netwerk apparatuur, backup oplossingen verandert van On-premise naar de cloud, zullen ook de technische richtlijnen veranderen. Doordat de richtlijnen veranderen heeft dat ook invloed op  de bedrijfsvoering en bedrijfscultuur. Volgens Microsoft zijn de volgende rollen hierbij betrokken. 
+=======
+Doordat de manier waarop gebruik wordt gemaakt van IT zaken zoals; servers, netwerk apparatuur, backup oplossingen verandert van On-premise naar de cloud, zullen ook de technische richtlijnen veranderen. Doordat de richtlijnen veranderen heeft dat ook invloed op de bedrijfsvoering en bedrijfscultuur. Volgens Microsoft zijn de volgende rollen hierbij betrokken. 
+>>>>>>> 627deb13cf4d2c7f21a858644b7696dfc6cdb9ad
 * Line-Of-Business-leiders
 * Zakelijke beslisser
 * IT-besluitvormers
@@ -69,7 +73,11 @@ Zoals in bovenstaande afbeelding te zien is worden er drie punten van bedrijfsbe
 4. Identity Baseline
 5. Deployment Acceleration
 
+<<<<<<< HEAD
 Door gebruik te maken van duidelijke mijlpalen en concrete zakelijke voordelen is de cloud-adoptie te vergemakelijken en op deze manier kan er ook zorg gedragen worden dat het project niet van het traject ontspoort en dus veel groter wordt als bedoelt. Op deze manier is het afronden van dit project ook een stuk te vereenvoudigen, al is het invoeren van cloud-adoptie nooit echt klaar. Nu kan het natuurlijk wel zo zijn dat er telkens extra mijlpalen bij komen, maar je moet zorgen dat je de mijlpalen wel afsluit. 
+=======
+Door gebruik te maken van duidelijke mijlpalen en concrete zakelijke voordelen is de cloud-adoptie te vergemakkelijken en op deze manier kan er ook zorg gedragen worden dat het project niet van het traject ontspoort en dus veel groter wordt als bedoelt. Op deze manier is het afronden van dit project ook een stuk te vereenvoudigen, al is het invoeren van cloud-adoptie nooit echt klaar. Nu kan het natuurlijk wel zo zijn dat er telkens extra mijlpalen bij komen, maar je moet zorgen dat je de mijlpalen wel afsluit. 
+>>>>>>> 627deb13cf4d2c7f21a858644b7696dfc6cdb9ad
 
 
 ### Cloud processen
@@ -85,6 +93,7 @@ Het Microsoft Cloud Adoption Framework for Azure behandeld de volgende governanc
 * Beveiligen
 * Organiseren
 
+<<<<<<< HEAD
 Bij het aspect Stategie wordt er gekeken hoe er het beste een cloudacceptatie strategie ontwikkeld kan worden, wat ook belangrijk is is dat de bedrijfsstrategie inzichtelijk gedocumenteerd is. Microsoft heeft enkele stappen gedefinieerd om de bedrijfsdocumentatie efficient te documenteren. Onderstaande zijn de stappen:
 1. Uw motivaties definiëren en documenteren
    1. Hier dienen de redenen duidelijk gedocumenteerd worden, zodat er later op terug gekeken kan worden, mochten er vragen ontstaan waarom er gekozen werdt om naar de cloud te gaan. 
@@ -113,6 +122,9 @@ Je
 
 Bij het aspect Plannen 
 
+=======
+Bij het aspect Stategie wordt er gekeken welke 
+>>>>>>> 627deb13cf4d2c7f21a858644b7696dfc6cdb9ad
 
 ## Sterke en zwakke punten
 Enkele sterke punten van het Microsoft Cloud Adoption Framework for Azure zijn de volgende:
@@ -125,7 +137,11 @@ Enkele zwakke punten van het Microsoft Cloud Adoption Framework for Azure zijn d
 2. 
 
 
+<<<<<<< HEAD
 ## conformeren grote cloud providers zich hieraan
+=======
+## Conformeren grote cloud providers zich hieraan
+>>>>>>> 627deb13cf4d2c7f21a858644b7696dfc6cdb9ad
 
 Het Microsoft Cloud Adoption Framework for Azure is een framework van Microsoft ontwikkeld voor Azure, dit is een framework waar Azure dus conform aan is. 
 
@@ -138,4 +154,8 @@ Als ik het Microsoft Cloud Adoption Framework for Azure vergelijk met het AWS Cl
 
 Bronvermelding
 
+<<<<<<< HEAD
 [Wat is de Microsoft Cloud Adoption Framweork voor Azure](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/overview)
+=======
+[Wat is de Microsoft Cloud Adoption Framweork voor Azure](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/overview)
+>>>>>>> 627deb13cf4d2c7f21a858644b7696dfc6cdb9ad
