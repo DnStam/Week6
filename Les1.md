@@ -133,3 +133,5 @@ Bronvermelding
 [AWS Cloud Adoption Framework(AWS CAF)](https://aws.amazon.com/professional-services/CAF/)
 
 [Overview of Cloud Adoption Framework for Azure (YouTube 14 min)](https://www.youtube.com/watch?v=j2Vk-YNdSdQ)
+
+[Oracle Cloud Infrastructure (OCI) Cloud Adoption Framework](https://www.oracle.com/nl/cloud/cloud-adoption-framework/)
