@@ -98,8 +98,12 @@ Bij het aspect Stategie wordt er gekeken hoe er het beste een cloudacceptatie st
       6. Duurzaamheidsdoelstellingen
 3. Financiële overwegingen evalueren
    1. Hier documenteer je de verwachtingen over de verschuivingen van CAPEX naar OPEX. Dit doe je om de budgettoewijzingen aan te passen voor de nieuwe manier van werken. 
-   2. 
 4. Technische overwegingen begrijpen
+   1. Schaalbaarheid
+   2. Beschikbaarheid
+   3. Beveiliging en naleving
+   4. Capaciteitsoptimalisatie
+  
 
 
 
