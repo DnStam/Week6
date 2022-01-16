@@ -2,7 +2,7 @@
 
 Door: Sam van Winsen & Daan Stam
 
-Wordcount: 1045 (excl Table of Contents & Bronvermelding)
+Wordcount: 1071 (excl Table of Contents & Bronvermelding)
 
 - [Microsoft CLoud Adoption Framework for Azure](#microsoft-cloud-adoption-framework-for-azure)
   - [YouTube](#youtube)
